@@ -1,4 +1,4 @@
-Hello, my name is Marcos Duarte!
+Hello, my name is <strong>Marcos Duarte</strong>!
 
 I am an IFSC student, and I am graduating from the Systems Analysis and Development course.
 
