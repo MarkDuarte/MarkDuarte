@@ -14,4 +14,4 @@
 
 <h1>Top Langs</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkDuarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkDuarte&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
