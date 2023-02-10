@@ -6,7 +6,7 @@
 
 <h1> Contacts </h1>
 
-[![marcosduarte1994@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcosduarte1994@gmail.com) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-duarte-b550b71a4)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-duarte-b550b71a4)
 
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=markduarte&show_icons=true&theme=tokyonight) 
 <br/>
