@@ -2,7 +2,7 @@
 
 <p>I am an IFSC student, and I am graduating from the Systems Analysis and Development course. 🧑‍🎓</p>
 
-<p>I am passionate about programming ❤️, and in search of evolution.</p>
+<p>I am passionate about programming ❤️ and in search of evolution.</p>
 
 <h1> Contacts </h1>
 
